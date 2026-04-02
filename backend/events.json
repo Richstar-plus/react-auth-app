@@ -15,5 +15,11 @@
       "id": "2a45465c4-ea21-4bdd-abf6-c40reredc66a9"
     }
   ],
-  "users": []
+  "users": [
+    {
+      "email": "richardsunday0812@gmail.com",
+      "password": "$2a$12$tX/J5Awqviak573rRclOIuAA2jy0hwMGhczNh5nHs0i3mPDC0ffYm",
+      "id": "4b6aa8d5-1073-40ea-8c28-5042a5e6215a"
+    }
+  ]
 }
